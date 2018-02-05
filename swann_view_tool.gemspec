@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{This will get the current year and past it along with your name and
                           a message and store it in a @copyright variable for use in things
                           like your footer.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/scswan85/swann_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
