@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Include <%= @copyright %> where you would like said text rendered in html.
 
 ## Development
 
