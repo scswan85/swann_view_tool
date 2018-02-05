@@ -20,8 +20,6 @@ Or install it yourself as:
 
 ## Usage
 
-Include <%= @copyright %> where you would like said text rendered in html.
-
 ```ruby
   SwannViewTool::Renderer.copyright 'Stephen Swann', 'All rights reserved'
 ```
